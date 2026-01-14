@@ -1,2 +1,2 @@
-# Anderson-tests
+# Andersen-tests
 Here is there solutions on test tasks
