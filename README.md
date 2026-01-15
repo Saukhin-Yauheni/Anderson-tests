@@ -23,4 +23,4 @@ Possible solutions:
 1:   changing one of the last "]" to rounded ")" [((())()(()))] 
 2:   in case if sequence of some empty spec. was supposed to see solution just in rounded brackets deleting all "[","]" and adding one rounded bracket in the end ")" - ((())()(())) ;
 3:   adding one opening bracket "[" and closing ")" - [[((())()(()))]] ;
-4:   [((())()(())]] in case of deleting on of the last "]" then bracket would be incorrect - [((())()(())] 
+4:   in case of deleting on of the last "]" then bracket would be incorrect - [((())()(())] 
